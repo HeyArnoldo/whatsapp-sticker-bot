@@ -16,4 +16,4 @@
 Send an image to get sticker!
 Send a video to get gif sticker!
 
-by: HeyArnoldo
+###### by: HeyArnoldo
